@@ -1,0 +1,20 @@
+
+
+Building a new DB, current time: 05/22/2015 16:02:34
+New DB name:   ./dbs/mtu
+New DB title:  ./genomes/mtu.fasta
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 3906 sequences in 0.228071 seconds.
+
+
+Building a new DB, current time: 05/22/2015 16:02:47
+New DB name:   ./dbs/mtu
+New DB title:  ./genomes/mtu.fasta
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 3906 sequences in 0.218052 seconds.
