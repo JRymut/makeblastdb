@@ -1,0 +1,20 @@
+
+
+Building a new DB, current time: 05/22/2015 16:02:35
+New DB name:   ./dbs/mbo
+New DB title:  ./genomes/mbo.fasta
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 3918 sequences in 0.225282 seconds.
+
+
+Building a new DB, current time: 05/22/2015 16:02:48
+New DB name:   ./dbs/mbo
+New DB title:  ./genomes/mbo.fasta
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 3918 sequences in 0.227108 seconds.

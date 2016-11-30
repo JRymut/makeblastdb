@@ -1,0 +1,20 @@
+
+
+Building a new DB, current time: 05/22/2015 16:02:35
+New DB name:   ./dbs/bsu
+New DB title:  ./genomes/bsu.fasta
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 4175 sequences in 0.243423 seconds.
+
+
+Building a new DB, current time: 05/22/2015 16:02:47
+New DB name:   ./dbs/bsu
+New DB title:  ./genomes/bsu.fasta
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 4175 sequences in 0.224631 seconds.
